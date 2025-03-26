@@ -41,9 +41,9 @@
   </div>
 
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Gondra98&show_icons=true&theme=gotham" alt="GitHub Stats"/>
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
     </a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98&layout=compact&theme=gotham" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98&theme=gotham" alt="Top Langs"/>
     </a>
   </div>
 
