@@ -48,7 +48,7 @@
 
   <div align="center"> 
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1)](https://solved.ac/dasseo1)
+  [![Sosslved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1)](https://solved.ac/dasseo1/)
   
   </div>
 
