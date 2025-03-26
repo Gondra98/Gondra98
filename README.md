@@ -35,17 +35,9 @@
 
   ## 📊 GitHub Stats  
 
-  <div align="center">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1" alt="Solved.ac Profile"/>
-    </a>
-  </div>
 
-  <div align="center">
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-    </a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98&theme=gotham" alt="Top Langs"/>
-    </a>
-  </div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
