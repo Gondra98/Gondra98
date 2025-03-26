@@ -35,23 +35,16 @@
 
   ## 📊 GitHub Stats
 
-  <div align="center">
-    <a href="https://solved.ac/dasseo1">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1" alt="Solved.ac 프로필">
-    </a>
+  <div align="center"> 
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1)](https://solved.ac/dasseo1)
+  
   </div>
 
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Gondra98&theme=gotham" alt="GitHub Stats">
-    </a>
-  </div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98&layout=compact&theme=gotham&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98&layout=compact&theme=gotham" alt="Top Languages">
-    </a>
-  </div>
 
 
   
