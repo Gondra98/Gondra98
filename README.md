@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
-   <br/>
-   ### Tools
+  <br/>
+  ### Tools
   <!--Visual Studio-->
   <img src="https://img.shields.io/badge/Visual Studio-AC75D7?style=flat-square&l"/>
   <!--Android Studio-->
@@ -51,11 +51,11 @@
   
   ## 🤔 Github Stats
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98)](https://github.com/anuraghazra/github-readme-stats)
- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1)](https://solved.ac/dasseo1)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1)](https://solved.ac/dasseo1)
   
 </div>
 
