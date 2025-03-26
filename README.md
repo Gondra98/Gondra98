@@ -23,19 +23,26 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
+
+   ### 🛠Tools
+  <!--Visual Studio-->
+  <img src="https://img.shields.io/badge/Visual Studio-AC75D7?style=flat-square&l"/>
+  <!--Android Studio-->
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <!--Jupyter-->
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <!--VS code-->
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  
+
   <br/>
 
-  ### 🗄️DB
+  ### DB
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <!--Firebase-->
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
-
-  <br/>
-
-  ## 🛠Tools
-  <!--Android Studio-->
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+ 
   
   
   
