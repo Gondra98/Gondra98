@@ -24,7 +24,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
-   ### 🛠Tools
+   <br/>
+   ### Tools
   <!--Visual Studio-->
   <img src="https://img.shields.io/badge/Visual Studio-AC75D7?style=flat-square&l"/>
   <!--Android Studio-->
@@ -36,7 +37,6 @@
   
 
   <br/>
-
   ### DB
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -50,10 +50,12 @@
   <br/>
   
   ## 🤔 Github Stats
+  <center>
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98)](https://github.com/anuraghazra/github-readme-stats)
+  <center>
   <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1)](https://solved.ac/dasseo1)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98)](https://github.com/anuraghazra/github-readme-stats)
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1)](https://solved.ac/dasseo1)
   
 </div>
 
