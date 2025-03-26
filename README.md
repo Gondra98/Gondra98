@@ -25,18 +25,19 @@
 
   <br/>
 
-  ### Tools
-  <!--Android Studio-->
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  
-  
-  
-  
   ### ETC
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <!--Firebase-->
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
+
+  <br/>
+
+  ## 🛠Tools
+  <!--Android Studio-->
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  
+  
   
   <br/>
   <br/>
