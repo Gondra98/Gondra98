@@ -34,10 +34,14 @@
   <br/><br/>   
 
   ## 📊 GitHub Stats
+
+  <div align="center"> 
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1)](https://solved.ac/dasseo1)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
 
 
 </div>
