@@ -1,8 +1,14 @@
+<div>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gondra's%20GitHub%20%F0%9F%A4%97)
+
+</div>
 
 ## 👀 About Me  
 #### 🔥 I aspire to be an AI Engineer.  
-#### 🎓 B.S. in Computer Science, Kunsan National University (KSNU)  
+#### 🎓 B.S. in Computer Science, Kunsan National University (KSNU)
+
+
 <br/>
 
 ## 🧱 Tech Stack  
