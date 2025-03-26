@@ -12,7 +12,7 @@
   
   ## 👀 About Me
   #### :fire: I aim to become an AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Computer Information Science, Kunsan National University(KSNU)
+  #### :mortar_board: Bachelor of Computer Science, Kunsan National University(KSNU)
   <br/>
   <br/>
   
