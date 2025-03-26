@@ -35,9 +35,21 @@
 
   ## 📊 GitHub Stats  
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1)](https://solved.ac/dasseo1)
+  <p align="center">
+    <a href="https://solved.ac/dasseo1">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dasseo1" alt="Solved.ac Profile"/>
+    </a>
+  </p>
+
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gondra98&show_icons=true&theme=gotham" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gondra98&layout=compact&theme=gotham" alt="Top Langs"/>
+    </a>
+  </div>
+
 
 
 </div>
