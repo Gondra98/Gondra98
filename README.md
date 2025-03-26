@@ -32,17 +32,17 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>  
 
   <br/>
+  <br/>
 
   ## 📜 License
   #### 🎯Engineer Information Processing
   #### 🎯AICE - BASIC
   
   
-
-
   
 
-  <br/><br/>   
+  <br/>
+  <br/> 
 
   ## 📊 GitHub Stats
 
