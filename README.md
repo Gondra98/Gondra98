@@ -27,7 +27,7 @@
 
   ### Tools
   <!--Android Studio-->
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Androi Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
   
   
   
