@@ -1,4 +1,4 @@
-(https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=Gondra's%20GitHub&section=header&reversal=false&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=Gondra's%20GitHub&section=header&reversal=false&textBg=false)
 
 <!--
 **Gondra98/Gondra98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
