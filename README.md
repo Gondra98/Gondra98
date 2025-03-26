@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 
-  ### Tools  
+  ### Tool  
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  
